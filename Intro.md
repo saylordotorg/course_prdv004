@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV004: Spreadsheets"
+course_description: "This course will provide you with a comprehensive introduction to spreadsheets; it is designed for first-time users with very little or no exposure to the subject."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PRDV004: Spreadsheets"
 -------------------------------------------
 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV004: Spreadsheets"
+course_description: "This course will provide you with a comprehensive introduction to spreadsheets; it is designed for first-time users with very little or no exposure to the subject."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Composition of a Spreadsheet** <span id="2"></span> 
 *The best way to learn something is to gain hands-on experience with it.
 This unit will focus on the steps required to assemble columns and rows

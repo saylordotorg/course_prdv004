@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV004: Spreadsheets"
+course_description: "This course will provide you with a comprehensive introduction to spreadsheets; it is designed for first-time users with very little or no exposure to the subject."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Spreadsheet Design and Implementation** <span id="3"></span> 
 *The final unit of this course will build upon the concepts discussed in
 the previous units. You will apply what you have learned by creating a

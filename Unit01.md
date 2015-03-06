@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV004: Spreadsheets"
+course_description: "This course will provide you with a comprehensive introduction to spreadsheets; it is designed for first-time users with very little or no exposure to the subject."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Getting Started with Spreadsheets** <span id="1"></span> 
 *In this unit, you will learn about the power and flexibility of
 spreadsheets, using Microsoft Excel. This unit will briefly survey the
